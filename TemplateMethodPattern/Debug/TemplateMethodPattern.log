@@ -1,14 +1,17 @@
-﻿Build started 7/29/2014 10:16:41 AM.
-     1>Project "c:\Users\jbrock\documents\visual studio 2013\Projects\MiscSmallTestProjects\TemplateMethodPattern\TemplateMethodPattern.vcxproj" on node 2 (Build target(s)).
-     1>Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jbrock\documents\visual studio 2013\Projects\MiscSmallTestProjects\Debug\TemplateMethodPattern.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\jbrock\documents\visual studio 2013\Projects\MiscSmallTestProjects\Debug\TemplateMethodPattern.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jbrock\documents\visual studio 2013\Projects\MiscSmallTestProjects\Debug\TemplateMethodPattern.lib" /MACHINE:X86 Debug\main.obj
+﻿Build started 8/17/2014 7:09:30 AM.
+     1>Project "C:\Users\jbrock\Documents\Github\MiscSmallTestProjects\TemplateMethodPattern\TemplateMethodPattern.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jbrock\Documents\Github\MiscSmallTestProjects\Debug\TemplateMethodPattern.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jbrock\Documents\Github\MiscSmallTestProjects\Debug\TemplateMethodPattern.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jbrock\Documents\Github\MiscSmallTestProjects\Debug\TemplateMethodPattern.lib" /MACHINE:X86 Debug\main.obj
      1>main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Game::initGame(void)" (?initGame@Game@@UAEXXZ)
      1>main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Game::makePlay(int)" (?makePlay@Game@@UAEXH@Z)
      1>main.obj : error LNK2001: unresolved external symbol "public: virtual bool __thiscall Game::endOfGame(void)" (?endOfGame@Game@@UAE_NXZ)
      1>main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Game::printWinner(void)" (?printWinner@Game@@UAEXXZ)
-     1>c:\users\jbrock\documents\visual studio 2013\Projects\MiscSmallTestProjects\Debug\TemplateMethodPattern.exe : fatal error LNK1120: 4 unresolved externals
-     1>Done Building Project "c:\Users\jbrock\documents\visual studio 2013\Projects\MiscSmallTestProjects\TemplateMethodPattern\TemplateMethodPattern.vcxproj" (Build target(s)) -- FAILED.
+     1>C:\Users\jbrock\Documents\Github\MiscSmallTestProjects\Debug\TemplateMethodPattern.exe : fatal error LNK1120: 4 unresolved externals
+     1>Done Building Project "C:\Users\jbrock\Documents\Github\MiscSmallTestProjects\TemplateMethodPattern\TemplateMethodPattern.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:00.34
+Time Elapsed 00:00:01.88
