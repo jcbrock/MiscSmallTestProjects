@@ -1,0 +1,2 @@
+C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,17 @@
+﻿Build started 8/15/2014 9:56:38 AM.
+     1>Project "C:\Users\jbrock\Documents\Visual Studio 2013\Projects\MiscSmallTestProjects\RotationsOpenGL\glm\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/glm/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/test/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/test/bug/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/test/core/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/test/gtc/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/test/gtx/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/util/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\jbrock\Documents\Visual Studio 2013\Projects\MiscSmallTestProjects\RotationsOpenGL\glm\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31

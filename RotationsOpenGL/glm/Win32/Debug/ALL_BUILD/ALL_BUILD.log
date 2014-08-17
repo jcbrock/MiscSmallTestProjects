@@ -1,0 +1,11 @@
+﻿Build started 8/15/2014 9:56:38 AM.
+     1>Project "C:\Users\jbrock\Documents\Visual Studio 2013\Projects\MiscSmallTestProjects\RotationsOpenGL\glm\ALL_BUILD.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/jbrock/Documents/Visual Studio 2013/Projects/MiscSmallTestProjects/RotationsOpenGL/glm/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\jbrock\Documents\Visual Studio 2013\Projects\MiscSmallTestProjects\RotationsOpenGL\glm\CMakeFiles\generate.stamp is up-to-date.
+         Build all projects
+     1>Done Building Project "C:\Users\jbrock\Documents\Visual Studio 2013\Projects\MiscSmallTestProjects\RotationsOpenGL\glm\ALL_BUILD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
