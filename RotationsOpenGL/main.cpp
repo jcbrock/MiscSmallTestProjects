@@ -399,7 +399,13 @@ void onMouseButton(GLFWwindow *window, int button, int action, int mods)
         //confirm collision with openGL in object space. How do I detect collision with my scene?
         //This might be where I read about transforms and camera stuff...
 
+        //I think I just try to define them the same way in openGL, and then make sure the collision detection
+        //matches. For the ray, I need to know camera starting point, and where I clicked. How do I tell Z?
+        //Maybe just make Z really far back...
 
+        //Goal for 8/18: Understand openGL pipeline / camera view stuff
+        //Also figure out ray / triangle collision and review stuff I did yesterday
+        
 
         delete xpos;
         delete ypos;
